@@ -1,6 +1,4 @@
-// program to display the sum of natural numbers
 
-// take input from the user
 const number = 100;
 
 let sum = 0;
